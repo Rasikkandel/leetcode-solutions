@@ -38,3 +38,19 @@ rotate 2 steps to the right: [3,99,-1,-100]
 	<li>Try to come up with as many solutions as you can. There are at least <strong>three</strong> different ways to solve this problem.</li>
 	<li>Could you do it in-place with <code>O(1)</code> extra space?</li>
 </ul>
+
+naive approach :: 
+class Solution:
+    def rotateArray(self, nums, k: int) -> None:
+        n = len(nums)
+        k = k % n  
+        arr = [] 
+        # first k lae naya array ma store
+        for i in range(k) :  
+            arr.append(nums[i]) 
+        # then rotate gareko pugni samma 
+        for i in range(k,n) : 
+            nums[i-k] = nums[i] 
+        # tespaxi adding the array element laskarai 
+        for i in range(n-k,n) : 
+            nums[i] = arr[i-(n-k)] 
