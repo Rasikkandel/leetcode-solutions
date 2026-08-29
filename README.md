@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rasikkandel/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Union-Find
 |  |
 | ------- |
