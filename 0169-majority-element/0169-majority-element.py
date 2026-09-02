@@ -1,24 +1,26 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        elem = nums[0] 
-        count = 1
-        n = len(nums)
-        for i in range(1,n) : 
-            if(nums[i] == elem) : 
+        elem = 0 
+        count = 0 
+        for i in range(len(nums)) : 
+            if(count == 0) : 
+                elem = nums[i] 
+                count = 1 
+            elif(nums[i] == elem) : 
                 count += 1
             else : 
-                count -= 1
-                if(count == 0 and i<n-1) : 
-                    elem = nums[i+1]
-        
-        max_count = 0 
+                count -= 1 
+        ## if majority element exist na garna pani sakxa then yo steps leh check garni 
+        """ max_count = 0 
         for i in nums : 
             if(i == elem) : 
                 max_count += 1 
         
         if(max_count > n/2 ) : 
-            return elem 
+            return elem  
         return -1
+        """ 
+        return elem 
 
 
         
