@@ -19,5 +19,15 @@ class Solution:
             return True
         return False
 
+""" pythonic approach 
+    n = len(nums1)
+        odd_count = sum(x % 2 for x in nums1)
+        
+        if odd_count == 0 or odd_count == n:
+            return True
+        
+        return min(nums1) % 2 == 1
+""" 
+
 
         
