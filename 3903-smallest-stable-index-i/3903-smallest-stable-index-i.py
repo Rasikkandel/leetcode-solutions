@@ -16,6 +16,18 @@ class Solution:
             if(score <= k) : 
                 return i 
         return -1
+
+""" 
+another simpler form using slice : 
+
+n = len(nums) 
+for i in range(n) : 
+    score = max(nums[:i+1]) - min(nums[i:n]) 
+    if score <= k : 
+        return i 
+return -1
+
+""" 
              
              
 
