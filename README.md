@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0268-missing-number) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rasikkandel/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
