@@ -9,8 +9,7 @@ class Solution:
         maxvalue = 0 
         for i in range(n) : 
             maxvalue = max(maxvalue , nums[i])
-            score = maxvalue - suffix_min[i] 
-            if score <= k : 
+            if ( maxvalue - suffix_min[i] ) <= k : 
                 return i 
 
         return -1
