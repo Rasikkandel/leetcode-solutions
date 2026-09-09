@@ -1,5 +1,6 @@
 class Solution:
     def countCommas(self, n: int) -> int:
+        """ 
         if(n < 1000): 
             return 0 
         elif (n >= 1000 and n < 1000000) : 
@@ -24,7 +25,13 @@ class Solution:
             count += n - 999999999999999
         
         return count
-
+        """
+        p = 1000
+        res = 0 
+        while p <= n : 
+            res += n - p + 1 
+            p = p * 1000
+        return res 
 
         
         
