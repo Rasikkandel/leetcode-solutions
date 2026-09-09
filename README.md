@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
