@@ -1,4 +1,3 @@
-"""
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
         n = len(digits) 
@@ -18,7 +17,7 @@ class Solution:
                         unique.add(number) 
                         count += 1
         return count 
-        """
+"""
 from collections import Counter
 from typing import List
 
@@ -39,6 +38,7 @@ class Solution:
                     if all(cnt[d] >= c for d, c in need.items()):
                         total += 1
         return total
+"""
 
 
 
