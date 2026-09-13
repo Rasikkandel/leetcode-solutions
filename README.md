@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0268-missing-number) |
+| [2485-find-the-pivot-integer](https://github.com/Rasikkandel/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2485-find-the-pivot-integer](https://github.com/Rasikkandel/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
