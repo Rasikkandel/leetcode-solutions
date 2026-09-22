@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
