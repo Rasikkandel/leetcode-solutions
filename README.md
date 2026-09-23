@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0704-binary-search) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rasikkandel/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rasikkandel/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rasikkandel/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Rasikkandel/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rasikkandel/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rasikkandel/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
