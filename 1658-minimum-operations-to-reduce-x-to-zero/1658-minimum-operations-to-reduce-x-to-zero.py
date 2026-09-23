@@ -11,7 +11,8 @@ class Solution:
         
         best_max = -1 
 
-
+        # sliding window approach 
+        # finding the subarray with the max length which sums eqaul sum(nums) - x 
         for right in range(0,n) : 
             value += nums[right] 
             while(value > target) : 
