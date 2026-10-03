@@ -1,12 +1,12 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        count = 0 
-        max_count = 0 
+        depth = 0 
+        max_depth = 0 
         for character in s : 
             if character == "(" : 
-                count += 1 
-                max_count = max(max_count , count)
+                depth += 1 
+                max_depth = max(max_depth , depth)
             elif character == ")" : 
-                count -= 1 
-        return max_count
+                depth -= 1 
+        return max_depth
         
