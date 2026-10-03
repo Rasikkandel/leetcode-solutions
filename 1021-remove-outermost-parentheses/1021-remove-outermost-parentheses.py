@@ -1,7 +1,7 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         count = 0 
-        primitives = [] 
+        ans = ""
         primitive = ""
         for character in s: 
             primitive += character 
@@ -10,9 +10,6 @@ class Solution:
             elif character == ")" : 
                 count -= 1 
             if count == 0 : 
-                primitives.append(primitive)
+                ans += primitive[1:-1] 
                 primitive = ""
-        ans = ""
-        for prim in primitives : 
-            ans += prim[1:-1] 
         return ans
